@@ -14,6 +14,7 @@ Some of the operating systems used for cyber security and ethical hacking purpos
 
 ## :pushpin: Online training platforms
 
+- [XSS](https://)
 - [Avatao](https://avatao.com/) – challenges to practice cybersecurity skills
 - [Damn Vulnerable Web Application (DVWA)](http://www.dvwa.co.uk/) – a PHP/MySQL web application containing various vulnerabilities
 - [Hack Me](https://hack.me/) – a community platform for building, hosting and sharing vulnerable web app code
@@ -24,6 +25,8 @@ Some of the operating systems used for cyber security and ethical hacking purpos
 
 ## :pushpin: Resources :closed_book:
 
+- [OSINT](https://www.osintframework.com/)
+- [CVE details](https://www.cvedetails.com/)
 - [Hacker101](https://www.hacker101.com/)
 - [Hacksplaining](https://www.hacksplaining.com/lessons)
 - [eLearnSecurity](https://www.elearnsecurity.com/)
